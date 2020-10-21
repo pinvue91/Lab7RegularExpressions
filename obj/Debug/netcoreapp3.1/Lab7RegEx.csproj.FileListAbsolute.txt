@@ -1,0 +1,13 @@
+C:\Users\pin\source\repos\Lab7RegEx\Lab7RegEx\bin\Debug\netcoreapp3.1\Lab7RegEx.exe
+C:\Users\pin\source\repos\Lab7RegEx\Lab7RegEx\bin\Debug\netcoreapp3.1\Lab7RegEx.deps.json
+C:\Users\pin\source\repos\Lab7RegEx\Lab7RegEx\bin\Debug\netcoreapp3.1\Lab7RegEx.runtimeconfig.json
+C:\Users\pin\source\repos\Lab7RegEx\Lab7RegEx\bin\Debug\netcoreapp3.1\Lab7RegEx.runtimeconfig.dev.json
+C:\Users\pin\source\repos\Lab7RegEx\Lab7RegEx\bin\Debug\netcoreapp3.1\Lab7RegEx.dll
+C:\Users\pin\source\repos\Lab7RegEx\Lab7RegEx\bin\Debug\netcoreapp3.1\Lab7RegEx.pdb
+C:\Users\pin\source\repos\Lab7RegEx\Lab7RegEx\obj\Debug\netcoreapp3.1\Lab7RegEx.AssemblyInfoInputs.cache
+C:\Users\pin\source\repos\Lab7RegEx\Lab7RegEx\obj\Debug\netcoreapp3.1\Lab7RegEx.AssemblyInfo.cs
+C:\Users\pin\source\repos\Lab7RegEx\Lab7RegEx\obj\Debug\netcoreapp3.1\Lab7RegEx.csproj.CoreCompileInputs.cache
+C:\Users\pin\source\repos\Lab7RegEx\Lab7RegEx\obj\Debug\netcoreapp3.1\Lab7RegEx.dll
+C:\Users\pin\source\repos\Lab7RegEx\Lab7RegEx\obj\Debug\netcoreapp3.1\Lab7RegEx.pdb
+C:\Users\pin\source\repos\Lab7RegEx\Lab7RegEx\obj\Debug\netcoreapp3.1\Lab7RegEx.genruntimeconfig.cache
+C:\Users\pin\source\repos\Lab7RegEx\Lab7RegEx\obj\Debug\netcoreapp3.1\Lab7RegEx.csprojAssemblyReference.cache
